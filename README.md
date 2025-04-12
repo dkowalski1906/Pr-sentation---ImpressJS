@@ -1,3 +1,5 @@
+To launch the project, open index.html at the root.
+
 impress.js
 ============
 
